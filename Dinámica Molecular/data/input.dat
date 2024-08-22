@@ -1,0 +1,40 @@
+File Input Parameters DM_SC.py 
+ 
+(Ntot)     Number of Particles (Random Distribution):
+50
+(d)        Box width (ao):
+6.
+(Ti)       Initial temperature(K):
+150.
+(Tf)       Final temperature(K):
+20.
+(dT)       Temperature step(K):
+-10.
+(Mat)      Atomic mass (amu):
+192.2
+(ao)       Lattice parameter (Anstrong):
+3.84
+(Epsilon)  Sutton-Chen Parameter (eV):
+0.0024489
+(Dmin)     Disotiation Energy (eV):
+0.4205
+(c)        c Sutton-Chen Parameter:
+334.94
+(n)        n Sutton-Chen Parameter:
+14.
+(m)        m Sutton-Chen Parameter:
+6.
+(Rcut)     Cut-radius(ao):
+3.
+(dTime)    Step Time (femtoseconds 10-15s):
+5.
+(MDSMax)   Total Molecular Dynamics Steps:
+1500
+(MDSCorte) Initial MDS for statistical Average:
+1
+(twin)     Window Steps for saving states in Evolution.dat (MDS):
+200
+(TRlj)     Relaxation Temperature (K):
+150.
+(idum)     Random Number Seed (integer value):
+3
